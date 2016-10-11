@@ -1,0 +1,8 @@
+Well, nothing related with them, but I pretty love the effort this kind of people do 
+to compile the best topics for better development.
+
+In this case is a Best Practices guide for Android developers.
+
+You should check it out if you're into the field. :D
+
+https://github.com/futurice/android-best-practices
