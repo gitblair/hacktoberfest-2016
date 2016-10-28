@@ -1,0 +1,4 @@
+Hello . If there is anyone interested in getting pull requests legit there is
+this node js app I've made. https://github.com/IvanovCosmin/ResponsiveMainAndLoginPage
+You could make the documentation a little bit better , make the app not return "meow" and a
+lot of other stuff.
